@@ -1,0 +1,7 @@
+faiss-cpu
+streamlit
+langchain
+langchain_community
+boto3
+jq
+
