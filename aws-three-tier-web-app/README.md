@@ -24,8 +24,6 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 
 ### Download Code from Github
 
-git clone https://github.com/iamtejasmane/aws-three-tier-web-app.git
-
 ### S3 Bucket Creation
 
 1. Navigate to the S3 service in the AWS console and create a new S3 bucket.
